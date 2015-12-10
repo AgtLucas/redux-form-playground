@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/redux-form-playground/issues"
   },
-  "homepage": "https://github.com/AgtLucas/redux-form-playground#readme"
+  "homepage": "https://github.com/AgtLucas/redux-form-playground#readme",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-redux": "^4.0.0",
+    "redux": "^3.0.4",
+    "redux-form": "^3.1.7"
+  }
 }
